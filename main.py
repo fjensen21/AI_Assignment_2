@@ -2,6 +2,7 @@ import generatemodels
 import transitionmodel
 import observationmodel
 import StateEstimate
+
 def main():
     tm = transitionmodel.TransitionModel()
     om = observationmodel.ObservationModel()
@@ -24,11 +25,13 @@ def main():
     om.registerObservation("N",generatemodels.generateobservationalmatrix("N", map))
     om.registerObservation("T",generatemodels.generateobservationalmatrix("T", map))
 
+    generatemodels.printmatrix(om.getObservation("N"), 3)
+
     # Setup Prior Probability
     pp = [
-        [.0111,.0111,.0111],
-        [.0111, .0111, .0111],
-        [.0111, .0111, .0111]
+        [.125,.125,.125],
+        [.125, .125, .125],
+        [.125, 0, .125]
     ]
 
     # Generate Results
@@ -40,6 +43,8 @@ def main():
     prob_distribution = se.executeFiltering(actions, observations)
 
     #TODO: Somehow print this matrix
+
+main()
 
 
 

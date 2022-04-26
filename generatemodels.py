@@ -1,7 +1,7 @@
 
 # Given a direction and dimensions generates the transition matrix for the direction
 # Directions can be "Up", "Down", "Right", "Left"
-def generatetransitionmatrix(direction:str, map:list[list])->list[list]:
+def generatetransitionmatrix(direction:str, map):
     # Generate empty mat with 0s
     rows = len(map)
     cols = len(map[0])
@@ -13,6 +13,8 @@ def generatetransitionmatrix(direction:str, map:list[list])->list[list]:
 
     for i in range(rows):
         for j in range(cols):
+            if map[i][j] == "B":
+                continue
             # Apply transition model to cell
             if direction == "Up":
                 if i == 0 or map[i - 1][j] == "B": # Cell is on top row
@@ -38,9 +40,10 @@ def generatetransitionmatrix(direction:str, map:list[list])->list[list]:
                 else:
                     mat[i][j + 1] += .9
                     mat[i][j] += .1
+    return mat
 
 
-def generateobservationalmatrix(observation:str, map:list[list]) ->list[list]:
+def generateobservationalmatrix(observation:str, map):
     rows = len(map)
     cols = len(map[0])
 
@@ -49,19 +52,21 @@ def generateobservationalmatrix(observation:str, map:list[list]) ->list[list]:
     prob_wrong = .05
 
     for i in range(rows):
+        row = []
         for j in range(cols):
-            row = []
             if map[i][j] == observation:
-                row[j] = prob_correct
+                row.append(prob_correct)
             elif map[i][j] == "B":
-                row[j] = 0
+                row.append(0)
             else:
-                row[j] = prob_wrong
-            mat.append(row)
+                row.append(prob_wrong)
+        mat.append(row)
+
+    return mat
 
 
 
-def printmatrix(mat:list[list], rows:int):
+def printmatrix(mat, rows:int):
     for i in range(rows):
         print(mat[i])
 
