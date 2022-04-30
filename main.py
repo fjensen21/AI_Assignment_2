@@ -26,7 +26,9 @@ def main():
     om.registerObservation("N",generatemodels.generateobservationalmatrix("N", map))
     om.registerObservation("T",generatemodels.generateobservationalmatrix("T", map))
 
-    #generatemodels.printmatrix(om.getObservation("N"), 3)
+    print(om.getObservation("N"))
+    print()
+    print()
 
     # Setup Prior Probability
     pp = [
@@ -42,13 +44,13 @@ def main():
     se.om = om
     se.priorprob = pp
 
-    print(se.priorprob)
-    print()
 
     prob_distribution = se.executeFiltering(actions, observations)
-    
-    print()
-    print(prob_distribution)
+
+
+    print("Result: ")
+    for row in prob_distribution:
+        print(row)
 
     #TODO: Somehow print this matrix
 main()
