@@ -1,0 +1,466 @@
+9
+18
+5
+7
+Down
+Right
+Right
+Up
+Right
+Right
+Up
+Down
+Right
+Down
+Up
+Down
+Up
+Left
+Left
+Up
+Down
+Up
+Right
+Right
+Left
+Down
+Left
+Right
+Right
+Up
+Right
+Up
+Up
+Left
+Up
+Down
+Right
+Right
+Left
+Left
+Up
+Right
+Right
+Right
+Down
+Left
+Left
+Down
+Up
+Down
+Right
+Up
+Right
+Up
+Left
+Up
+Left
+Right
+Right
+Down
+Down
+Right
+Down
+Left
+Up
+Right
+Left
+Up
+Left
+Down
+Left
+Right
+Up
+Down
+Right
+Down
+Down
+Up
+Up
+Right
+Down
+Right
+Up
+Left
+Up
+Down
+Left
+Right
+Right
+Up
+Right
+Up
+Up
+Up
+Up
+Left
+Down
+Left
+Up
+Left
+Up
+Right
+Left
+Down
+(6, 7)
+(6, 8)
+(6, 9)
+(5, 9)
+(5, 10)
+(5, 11)
+(5, 11)
+(6, 11)
+(6, 12)
+(7, 12)
+(6, 12)
+(7, 12)
+(7, 12)
+(7, 11)
+(7, 10)
+(7, 10)
+(8, 10)
+(7, 10)
+(7, 11)
+(7, 12)
+(7, 11)
+(7, 11)
+(7, 10)
+(7, 10)
+(7, 11)
+(6, 11)
+(6, 12)
+(5, 12)
+(4, 12)
+(4, 12)
+(4, 12)
+(5, 12)
+(5, 12)
+(5, 12)
+(5, 11)
+(5, 10)
+(4, 10)
+(4, 10)
+(4, 10)
+(4, 10)
+(4, 10)
+(4, 9)
+(4, 8)
+(5, 8)
+(4, 8)
+(5, 8)
+(5, 9)
+(4, 9)
+(4, 9)
+(3, 9)
+(3, 8)
+(2, 8)
+(2, 7)
+(2, 8)
+(2, 9)
+(3, 9)
+(4, 9)
+(4, 9)
+(5, 9)
+(5, 8)
+(4, 8)
+(4, 9)
+(4, 8)
+(4, 8)
+(4, 7)
+(5, 7)
+(5, 6)
+(5, 7)
+(4, 7)
+(5, 7)
+(5, 8)
+(6, 8)
+(7, 8)
+(6, 8)
+(5, 8)
+(5, 9)
+(6, 9)
+(6, 10)
+(5, 10)
+(5, 9)
+(4, 9)
+(5, 9)
+(5, 8)
+(5, 9)
+(5, 10)
+(4, 10)
+(4, 10)
+(3, 10)
+(2, 10)
+(1, 10)
+(0, 10)
+(0, 9)
+(0, 9)
+(0, 8)
+(0, 8)
+(0, 7)
+(0, 7)
+(0, 8)
+(0, 7)
+(1, 7)
+N
+N
+N
+N
+N
+H
+H
+N
+N
+N
+N
+N
+N
+T
+H
+N
+N
+N
+T
+N
+T
+T
+N
+N
+T
+N
+N
+N
+N
+N
+N
+N
+N
+N
+H
+N
+T
+N
+N
+N
+N
+H
+N
+T
+N
+N
+N
+H
+H
+H
+N
+N
+H
+H
+N
+H
+H
+H
+N
+N
+N
+H
+N
+N
+N
+N
+T
+N
+N
+N
+N
+N
+N
+N
+N
+H
+N
+H
+N
+N
+H
+N
+N
+T
+T
+N
+H
+T
+T
+N
+T
+T
+N
+N
+T
+T
+T
+T
+T
+T
+T
+B
+T
+N
+T
+T
+B
+T
+T
+N
+N
+T
+H
+B
+N
+H
+B
+N
+N
+T
+N
+H
+N
+B
+N
+T
+H
+T
+N
+N
+H
+N
+N
+N
+T
+N
+N
+H
+T
+N
+T
+B
+B
+N
+N
+N
+T
+N
+T
+N
+H
+N
+N
+T
+H
+N
+B
+N
+B
+H
+N
+B
+N
+H
+T
+N
+T
+T
+N
+N
+H
+N
+B
+N
+T
+N
+H
+N
+B
+N
+N
+H
+N
+B
+N
+N
+B
+N
+N
+N
+H
+T
+T
+H
+T
+N
+T
+N
+N
+N
+N
+H
+N
+B
+N
+B
+N
+B
+N
+N
+N
+H
+N
+T
+N
+N
+N
+N
+H
+N
+N
+N
+B
+H
+N
+H
+H
+N
+N
+N
+T
+H
+T
+N
+N
+N
+N
+T
+N
+N
+N
+N
+N
+H
+H
+H
+N
+N
+N
+T
+B
+H
+B
+T
+N
+N
+B
+N
+N
+N
+H
+H

@@ -42,7 +42,7 @@ def main():
     se.priorprob = pp
 
 
-    prob_distribution = se.executeFiltering(actions, observations)
+    prob_distribution = se.executeFiltering(actions, observations, 3, 3)
 
 
     print("Result: ")

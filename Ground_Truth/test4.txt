@@ -1,0 +1,355 @@
+51
+1
+35
+0
+Left
+Right
+Left
+Down
+Left
+Up
+Right
+Down
+Down
+Down
+Up
+Left
+Down
+Down
+Right
+Down
+Down
+Up
+Left
+Left
+Down
+Up
+Left
+Up
+Left
+Down
+Right
+Up
+Left
+Left
+Right
+Down
+Down
+Right
+Up
+Down
+Left
+Up
+Down
+Down
+Down
+Down
+Left
+Left
+Down
+Down
+Up
+Left
+Up
+Down
+Down
+Left
+Up
+Down
+Left
+Up
+Left
+Right
+Up
+Right
+Down
+Left
+Right
+Down
+Up
+Left
+Up
+Left
+Down
+Up
+Down
+Up
+Right
+Up
+Right
+Up
+Down
+Up
+Right
+Left
+Left
+Right
+Down
+Up
+Left
+Up
+Down
+Up
+Left
+Left
+Right
+Right
+Right
+Left
+Up
+Left
+Down
+Up
+Up
+Right
+(35, 0)
+(35, 0)
+(35, 0)
+(36, 0)
+(36, 0)
+(35, 0)
+(35, 0)
+(36, 0)
+(37, 0)
+(38, 0)
+(37, 0)
+(37, 0)
+(37, 0)
+(37, 0)
+(37, 0)
+(37, 0)
+(38, 0)
+(37, 0)
+(37, 0)
+(37, 0)
+(38, 0)
+(37, 0)
+(37, 0)
+(36, 0)
+(36, 0)
+(37, 0)
+(37, 0)
+(36, 0)
+(36, 0)
+(36, 0)
+(36, 0)
+(37, 0)
+(38, 0)
+(38, 0)
+(37, 0)
+(38, 0)
+(38, 0)
+(37, 0)
+(38, 0)
+(39, 0)
+(39, 0)
+(40, 0)
+(40, 0)
+(40, 0)
+(41, 0)
+(42, 0)
+(41, 0)
+(41, 0)
+(40, 0)
+(41, 0)
+(42, 0)
+(42, 0)
+(41, 0)
+(42, 0)
+(42, 0)
+(41, 0)
+(41, 0)
+(41, 0)
+(40, 0)
+(40, 0)
+(41, 0)
+(41, 0)
+(41, 0)
+(42, 0)
+(41, 0)
+(41, 0)
+(40, 0)
+(40, 0)
+(41, 0)
+(41, 0)
+(42, 0)
+(41, 0)
+(41, 0)
+(40, 0)
+(40, 0)
+(39, 0)
+(40, 0)
+(39, 0)
+(39, 0)
+(39, 0)
+(39, 0)
+(39, 0)
+(40, 0)
+(39, 0)
+(39, 0)
+(38, 0)
+(39, 0)
+(38, 0)
+(38, 0)
+(38, 0)
+(38, 0)
+(38, 0)
+(38, 0)
+(38, 0)
+(38, 0)
+(38, 0)
+(39, 0)
+(38, 0)
+(37, 0)
+(37, 0)
+N
+N
+N
+H
+H
+N
+N
+H
+N
+T
+T
+N
+N
+N
+N
+N
+T
+T
+N
+N
+T
+N
+H
+H
+H
+N
+N
+H
+T
+H
+H
+N
+N
+T
+N
+T
+N
+N
+T
+N
+H
+N
+N
+N
+N
+T
+T
+N
+N
+N
+T
+T
+N
+T
+T
+N
+N
+N
+N
+T
+N
+N
+N
+T
+N
+N
+N
+N
+N
+N
+T
+N
+N
+N
+N
+H
+H
+H
+H
+H
+H
+H
+N
+H
+H
+T
+H
+T
+T
+T
+T
+T
+T
+T
+T
+T
+H
+T
+N
+N
+B
+B
+T
+N
+N
+T
+H
+T
+N
+N
+N
+B
+N
+N
+T
+N
+B
+H
+H
+N
+T
+N
+T
+N
+N
+N
+H
+N
+N
+N
+B
+H
+B
+N
+N
+N
+H
+N
+T
+H
+N
+N
+T
+B
+H
+H
+H
+N
+N
+N
+N

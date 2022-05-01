@@ -9,7 +9,7 @@ import os
 
 #----------------------------------------------------------------------------------------------
 
-dir_path = './Test_Cases/'
+dir_path = './Ground_Truth/'
 
 
 # Get the number of files requested from the user
@@ -34,11 +34,8 @@ for file in range(num_files):
     rows = random.randint(1, 100)
     cols = random.randint(1, 50)
 
-    file_ptr.write("Rows: {}\n".format(rows))
-    file_ptr.write("Columns: {}\n".format(cols))
-
-    file_ptr.write("----------------------------------------\n")
-
+    file_ptr.write("{}\n".format(rows)) # Write Rows
+    file_ptr.write("{}\n".format(cols)) # Write Columns
 
     #-----------------------------------------------------
     # Creates a random board with weighted probabilities
@@ -63,26 +60,22 @@ for file in range(num_files):
         location[1] = random.randint(0, (cols - 1))
 
 
-    file_ptr.write("X_initial: {}\n".format(location[0]))
-    file_ptr.write("Y_initial: {}\n".format(location[1]))
-
-    file_ptr.write("----------------------------------------\n")
+    file_ptr.write("{}\n".format(location[0])) # Write X_initial 
+    file_ptr.write("{}\n".format(location[1])) # Write Y_initial
 
 
     # #create random list of directions
     directions = ["Up","Down","Left","Right"]
     directionList = random.choices(directions, weights=(25,25,25,25), k=100)
 
-    file_ptr.write("Actions List\n")
+
+    # Write Actions List
     for item in (directionList):
         file_ptr.write("{}\n".format(item))
 
-    file_ptr.write("----------------------------------------\n")
-
 
     #find traveled directins 90% chance of successful travel
-    file_ptr.write("Coordinates\n")
-
+    # Write Coordinates List
     for item in directionList:
 
         roll = random.randint(0, 99)
@@ -120,7 +113,7 @@ for file in range(num_files):
             location[0] = location[0]
             location[1] = location[1]
 
-        file_ptr.write("({}, {})\n".format(location[0], location[1]))
+        file_ptr.write("({}, {})\n".format(location[0], location[1])) # Current Coordinate
 
         #finds the observations atht    
         roll = random.randint(0, 99)
@@ -159,9 +152,14 @@ for file in range(num_files):
                 else:
                     observations.append("H")
 
-    file_ptr.write("----------------------------------------\n")
-    file_ptr.write("Observations\n")
 
+    # Write Observations List
     for item in (observations):
 
+        file_ptr.write("{}\n".format(item))
+
+
+    # Write Map
+    for item in (myMap):
+        
         file_ptr.write("{}\n".format(item))

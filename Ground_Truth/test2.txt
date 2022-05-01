@@ -1,0 +1,884 @@
+20
+29
+19
+9
+Up
+Right
+Left
+Up
+Left
+Right
+Left
+Down
+Right
+Up
+Up
+Left
+Down
+Left
+Left
+Down
+Down
+Down
+Down
+Left
+Up
+Up
+Down
+Down
+Up
+Down
+Up
+Down
+Left
+Left
+Down
+Left
+Down
+Up
+Up
+Right
+Up
+Left
+Left
+Right
+Down
+Down
+Left
+Up
+Left
+Down
+Down
+Right
+Up
+Right
+Up
+Down
+Down
+Down
+Right
+Right
+Left
+Right
+Right
+Down
+Down
+Right
+Up
+Left
+Right
+Right
+Right
+Left
+Right
+Down
+Left
+Left
+Down
+Up
+Left
+Down
+Right
+Right
+Left
+Up
+Down
+Down
+Down
+Down
+Down
+Up
+Down
+Right
+Down
+Down
+Up
+Right
+Left
+Left
+Up
+Down
+Down
+Down
+Down
+Left
+(19, 9)
+(19, 10)
+(19, 9)
+(18, 9)
+(18, 8)
+(18, 9)
+(18, 9)
+(18, 9)
+(18, 10)
+(17, 10)
+(16, 10)
+(16, 9)
+(17, 9)
+(17, 8)
+(17, 7)
+(17, 7)
+(17, 7)
+(17, 7)
+(17, 7)
+(17, 6)
+(16, 6)
+(15, 6)
+(16, 6)
+(17, 6)
+(16, 6)
+(16, 6)
+(15, 6)
+(15, 6)
+(15, 5)
+(15, 4)
+(16, 4)
+(16, 3)
+(17, 3)
+(16, 3)
+(15, 3)
+(15, 4)
+(15, 4)
+(15, 3)
+(15, 2)
+(15, 3)
+(16, 3)
+(17, 3)
+(17, 2)
+(16, 2)
+(16, 1)
+(16, 1)
+(17, 1)
+(17, 2)
+(16, 2)
+(16, 3)
+(15, 3)
+(16, 3)
+(17, 3)
+(18, 3)
+(18, 4)
+(18, 5)
+(18, 4)
+(18, 4)
+(18, 5)
+(19, 5)
+(19, 5)
+(19, 6)
+(18, 6)
+(18, 5)
+(18, 5)
+(18, 6)
+(18, 6)
+(18, 5)
+(18, 6)
+(19, 6)
+(19, 6)
+(19, 5)
+(19, 5)
+(18, 5)
+(18, 4)
+(19, 4)
+(19, 5)
+(19, 6)
+(19, 5)
+(18, 5)
+(19, 5)
+(19, 5)
+(19, 5)
+(19, 5)
+(19, 5)
+(18, 5)
+(19, 5)
+(19, 6)
+(19, 6)
+(19, 6)
+(18, 6)
+(18, 6)
+(18, 6)
+(18, 5)
+(17, 5)
+(18, 5)
+(19, 5)
+(19, 5)
+(19, 5)
+(19, 4)
+T
+N
+T
+H
+H
+H
+H
+H
+H
+N
+N
+T
+H
+N
+N
+N
+N
+T
+N
+N
+N
+N
+N
+N
+N
+H
+N
+T
+N
+N
+N
+H
+H
+H
+N
+N
+N
+N
+T
+T
+H
+H
+N
+N
+N
+N
+T
+N
+N
+H
+N
+H
+H
+N
+N
+T
+N
+N
+T
+N
+N
+N
+T
+N
+T
+T
+T
+T
+T
+N
+N
+N
+N
+T
+N
+T
+N
+N
+N
+T
+N
+N
+N
+T
+N
+T
+N
+N
+N
+N
+T
+T
+N
+T
+T
+T
+N
+N
+N
+T
+N
+T
+N
+H
+T
+N
+N
+T
+N
+H
+H
+T
+B
+B
+T
+B
+N
+B
+H
+N
+H
+T
+N
+T
+N
+N
+N
+B
+N
+N
+H
+N
+N
+T
+N
+T
+N
+H
+N
+N
+N
+B
+T
+H
+N
+N
+N
+N
+B
+N
+N
+N
+N
+H
+N
+H
+H
+N
+B
+N
+H
+N
+N
+N
+N
+H
+H
+N
+H
+H
+N
+N
+N
+H
+T
+N
+N
+N
+N
+H
+N
+N
+T
+T
+N
+T
+N
+T
+N
+B
+B
+H
+N
+N
+H
+N
+N
+B
+B
+N
+H
+H
+N
+N
+N
+T
+N
+N
+T
+N
+H
+N
+T
+N
+N
+N
+N
+T
+N
+N
+H
+H
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+H
+H
+N
+T
+T
+T
+N
+N
+T
+T
+B
+N
+B
+N
+N
+T
+N
+H
+H
+H
+N
+B
+N
+B
+H
+N
+H
+N
+N
+H
+H
+N
+N
+N
+N
+N
+N
+T
+B
+N
+T
+H
+N
+N
+N
+T
+N
+N
+N
+T
+N
+N
+H
+B
+N
+N
+N
+N
+N
+T
+B
+N
+T
+B
+N
+N
+N
+N
+N
+T
+N
+N
+T
+T
+N
+N
+T
+H
+T
+B
+N
+T
+N
+N
+N
+N
+T
+N
+N
+N
+B
+N
+B
+H
+N
+N
+T
+T
+N
+N
+N
+T
+T
+N
+T
+N
+T
+N
+N
+H
+N
+H
+N
+H
+N
+N
+N
+B
+N
+B
+H
+T
+B
+T
+N
+H
+T
+N
+N
+T
+H
+N
+B
+N
+T
+H
+N
+N
+T
+T
+T
+H
+B
+N
+N
+T
+N
+N
+T
+N
+T
+B
+T
+N
+T
+T
+B
+T
+H
+N
+T
+N
+H
+H
+T
+N
+B
+N
+N
+N
+T
+T
+N
+N
+B
+H
+H
+H
+N
+H
+H
+N
+H
+H
+N
+N
+H
+H
+N
+N
+T
+B
+H
+N
+H
+B
+N
+N
+B
+N
+N
+H
+H
+N
+N
+N
+N
+B
+N
+N
+N
+N
+T
+T
+H
+H
+B
+N
+H
+N
+N
+N
+B
+H
+T
+N
+H
+N
+N
+T
+T
+N
+N
+N
+H
+N
+N
+H
+B
+N
+N
+N
+N
+T
+N
+N
+B
+N
+N
+N
+N
+N
+N
+N
+H
+N
+T
+T
+B
+T
+H
+H
+H
+N
+N
+N
+N
+B
+N
+B
+N
+T
+T
+N
+N
+N
+T
+T
+B
+N
+N
+N
+H
+N
+T
+T
+N
+N
+T
+N
+H
+H
+H
+N
+N
+N
+N
+T
+T
+N
+T
+N
+N
+N
+N
+T
+N
+N
+T
+T
+T
+N
+T
+N
+H
+H
+T
+N
+T
+N
+N
+N
+H
+H
+N
+N
+B
+N
+N
+H
+N
+H
+N
+N
+N
+H
+N
+H
+N
+N
+N
+T
+N
+B
+H
+N
+N
+N
+N
+T
+H
+N
+N
+T
+T
+N
+T
+N
+H
+N
+N
+N
+T
+N
+H
+N
+T
+N
+N
+N
+N
+N
+N
+B
+N
+N
+H
+N
+N
+T
+T
+N
+N
+N
+N
+N
+H
+T
+N
+N
+N
+T
+N
+N
+N
+T
+T
+B
+H
+H
+N
+N
+H
+N
+N
+H
+H
+N
+H
+B
+N
+N
+N
+N
+H
+T
+N
+N
+H
+N
+B
+T
+T
+T
+N
+N
+H
+N
+T
+N
+N
+N
+H
+T
+B
+N
+T
+N
+H
+N
+T
+N
+N
+N
+T
+N
+B
+T
