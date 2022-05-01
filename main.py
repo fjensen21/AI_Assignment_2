@@ -25,10 +25,7 @@ def main():
     om.registerObservation("H",generatemodels.generateobservationalmatrix("H", map))
     om.registerObservation("N",generatemodels.generateobservationalmatrix("N", map))
     om.registerObservation("T",generatemodels.generateobservationalmatrix("T", map))
-
-    print(om.getObservation("N"))
-    print()
-    print()
+    
 
     # Setup Prior Probability
     pp = [

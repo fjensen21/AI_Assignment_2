@@ -51,6 +51,8 @@ class StateEstimate:
         # P_k+1 = OM * TM * P_k
         for k in range(size):
 
+            print("Step: {}".format(k + 1))
+
             current_prob = self.priorprob
 
 

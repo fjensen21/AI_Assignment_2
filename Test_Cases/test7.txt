@@ -1,0 +1,311 @@
+Rows: 2
+Columns: 37
+----------------------------------------
+X_initial: 0
+Y_initial: 32
+----------------------------------------
+Actions List
+Right
+Up
+Down
+Up
+Left
+Down
+Up
+Left
+Up
+Right
+Down
+Left
+Left
+Left
+Left
+Up
+Right
+Left
+Down
+Left
+Left
+Up
+Right
+Left
+Left
+Down
+Up
+Right
+Right
+Left
+Right
+Right
+Right
+Down
+Up
+Right
+Down
+Left
+Left
+Right
+Left
+Left
+Up
+Up
+Down
+Up
+Up
+Down
+Up
+Up
+Down
+Right
+Up
+Right
+Left
+Up
+Left
+Up
+Left
+Left
+Left
+Down
+Down
+Left
+Up
+Left
+Right
+Down
+Right
+Down
+Left
+Up
+Down
+Up
+Right
+Left
+Up
+Right
+Up
+Right
+Down
+Left
+Right
+Right
+Down
+Right
+Right
+Left
+Down
+Down
+Up
+Up
+Right
+Left
+Down
+Right
+Left
+Up
+Up
+Down
+----------------------------------------
+Coordinates
+(0, 32)
+(0, 32)
+(1, 32)
+(0, 32)
+(0, 31)
+(1, 31)
+(0, 31)
+(0, 30)
+(0, 30)
+(0, 31)
+(1, 31)
+(1, 30)
+(1, 30)
+(1, 29)
+(1, 29)
+(0, 29)
+(0, 30)
+(0, 29)
+(1, 29)
+(1, 29)
+(1, 29)
+(0, 29)
+(0, 30)
+(0, 29)
+(0, 28)
+(0, 28)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 29)
+(0, 29)
+(0, 30)
+(0, 31)
+(1, 31)
+(0, 31)
+(0, 32)
+(0, 32)
+(0, 31)
+(0, 30)
+(0, 31)
+(0, 30)
+(0, 29)
+(0, 29)
+(0, 29)
+(1, 29)
+(0, 29)
+(0, 29)
+(1, 29)
+(0, 29)
+(0, 29)
+(1, 29)
+(1, 30)
+(1, 30)
+(1, 31)
+(1, 30)
+(0, 30)
+(0, 29)
+(0, 29)
+(0, 28)
+(0, 27)
+(0, 27)
+(0, 27)
+(0, 27)
+(0, 27)
+(0, 27)
+(0, 27)
+(0, 27)
+(0, 27)
+(0, 28)
+(0, 28)
+(0, 27)
+(0, 27)
+(0, 27)
+(0, 27)
+(0, 28)
+(0, 28)
+(0, 28)
+(0, 29)
+(0, 29)
+(0, 30)
+(1, 30)
+(1, 29)
+(1, 30)
+(1, 31)
+(1, 31)
+(1, 32)
+(1, 33)
+(1, 32)
+(1, 32)
+(1, 32)
+(0, 32)
+(0, 32)
+(0, 32)
+(0, 31)
+(1, 31)
+(1, 31)
+(1, 30)
+(0, 30)
+(0, 30)
+(0, 30)
+----------------------------------------
+Observations
+H
+N
+T
+H
+T
+T
+N
+T
+N
+N
+T
+T
+T
+H
+T
+T
+N
+T
+H
+H
+H
+T
+N
+N
+N
+N
+N
+N
+N
+T
+T
+N
+N
+T
+N
+H
+H
+N
+N
+N
+N
+T
+T
+T
+T
+N
+T
+H
+N
+T
+H
+T
+T
+T
+T
+N
+T
+T
+H
+T
+T
+T
+T
+T
+N
+T
+T
+N
+N
+N
+T
+T
+T
+T
+N
+N
+N
+T
+T
+N
+T
+H
+T
+T
+T
+H
+N
+N
+T
+T
+H
+H
+H
+N
+T
+T
+T
+N
+N
+N

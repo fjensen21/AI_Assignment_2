@@ -1,0 +1,311 @@
+Rows: 39
+Columns: 7
+----------------------------------------
+X_initial: 8
+Y_initial: 6
+----------------------------------------
+Actions List
+Up
+Up
+Left
+Up
+Right
+Right
+Right
+Down
+Down
+Up
+Down
+Up
+Left
+Left
+Right
+Down
+Left
+Right
+Up
+Down
+Right
+Right
+Left
+Up
+Right
+Right
+Up
+Left
+Right
+Left
+Up
+Right
+Up
+Up
+Right
+Left
+Left
+Up
+Up
+Left
+Down
+Down
+Down
+Down
+Up
+Right
+Down
+Right
+Right
+Down
+Down
+Left
+Up
+Down
+Down
+Left
+Down
+Down
+Down
+Left
+Left
+Right
+Down
+Left
+Left
+Down
+Up
+Left
+Down
+Right
+Right
+Down
+Up
+Left
+Left
+Right
+Left
+Left
+Down
+Down
+Up
+Up
+Up
+Left
+Down
+Left
+Up
+Up
+Up
+Left
+Right
+Up
+Right
+Up
+Right
+Down
+Up
+Right
+Right
+Up
+----------------------------------------
+Coordinates
+(7, 6)
+(6, 6)
+(6, 5)
+(6, 5)
+(6, 6)
+(6, 6)
+(6, 6)
+(6, 6)
+(7, 6)
+(6, 6)
+(7, 6)
+(7, 6)
+(7, 5)
+(7, 4)
+(7, 5)
+(7, 5)
+(7, 5)
+(7, 5)
+(6, 5)
+(7, 5)
+(7, 6)
+(7, 6)
+(7, 5)
+(6, 5)
+(6, 6)
+(6, 6)
+(5, 6)
+(5, 6)
+(5, 6)
+(5, 6)
+(4, 6)
+(4, 6)
+(3, 6)
+(2, 6)
+(2, 6)
+(2, 6)
+(2, 5)
+(2, 5)
+(1, 5)
+(1, 4)
+(2, 4)
+(3, 4)
+(4, 4)
+(5, 4)
+(5, 4)
+(5, 4)
+(6, 4)
+(6, 5)
+(6, 5)
+(7, 5)
+(8, 5)
+(8, 4)
+(7, 4)
+(7, 4)
+(8, 4)
+(8, 3)
+(9, 3)
+(10, 3)
+(10, 3)
+(10, 2)
+(10, 1)
+(10, 2)
+(11, 2)
+(11, 1)
+(11, 0)
+(11, 0)
+(10, 0)
+(10, 0)
+(11, 0)
+(11, 1)
+(11, 2)
+(11, 2)
+(10, 2)
+(10, 1)
+(10, 0)
+(10, 1)
+(10, 0)
+(10, 0)
+(11, 0)
+(11, 0)
+(10, 0)
+(9, 0)
+(8, 0)
+(8, 0)
+(9, 0)
+(9, 0)
+(8, 0)
+(7, 0)
+(6, 0)
+(6, 0)
+(6, 1)
+(5, 1)
+(5, 2)
+(4, 2)
+(4, 3)
+(4, 3)
+(3, 3)
+(3, 4)
+(3, 5)
+(2, 5)
+----------------------------------------
+Observations
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+T
+H
+T
+H
+H
+H
+T
+H
+N
+T
+N
+T
+T
+N
+H
+N
+N
+H
+T
+T
+T
+H
+N
+N
+N
+N
+N
+N
+N
+H
+N
+N
+N
+N
+H
+N
+N
+T
+N
+N
+N
+N
+N
+N
+N
+T
+T
+N
+N
+N
+N
+T
+N
+N
+N
+N
+N
+H
+H
+N
+H
+H
+N
+N
+N
+H
+N
+N
+H
+T
+T
+N
+H
+H
+T
